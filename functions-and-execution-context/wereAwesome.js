@@ -16,6 +16,6 @@
         const wereAwesome =(str2,str1)=>{
             return `${str1.charAt(0).toUpperCase().concat(str1.substring(1).toLowerCase())} and ${str2.charAt(0).toUpperCase().concat(str2.substring(1).toLowerCase())} are awesome!`
         }
-
+//test case: 
 console.log(wereAwesome("TRICIA","gerald")) // "Tricia and Gerald are awesome!"
 

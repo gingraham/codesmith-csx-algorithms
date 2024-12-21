@@ -13,6 +13,7 @@ Below are the key concepts I'm focusing on, along with the progress tracking for
 ✅ [x] wereAwesome
 ✅ [x] lastLetter
 ✅ [x] invokingFunctions
+✅ [x] Loop-SummingTwoArrays
 📂 **Folder:** `/functions-and-execution-context`
 ### 2. Callbacks & Higher-order Functions
 ✅ [x] Pluralize

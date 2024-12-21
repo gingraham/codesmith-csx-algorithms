@@ -19,5 +19,6 @@ function kramer(str) {
 return str
 }
 
+//test case: 
 calls = jerry(calls);
 console.log(calls); // should log: 'JerryKramerGeorgeElaine'

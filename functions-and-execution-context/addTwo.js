@@ -9,4 +9,5 @@
 
 const addTwo = (num) => num + 2;
 
+//test case: 
 console.log(addTwo(2)); //Output: 4
