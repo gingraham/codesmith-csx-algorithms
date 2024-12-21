@@ -1,40 +1,44 @@
-Codesmith CSX Algorithms Practice
-Overview
+# Codesmith CSX Algorithms Practice
+
+## Overview
 This repository contains my solutions to the Codesmith CSX algorithms. It is organized into folders based on core JavaScript concepts. Each folder contains algorithm exercises related to that specific concept, with each exercise written as a separate JavaScript file.
 
-Concepts Covered
+## Concepts Covered
 Below are the key concepts I'm focusing on, along with the progress tracking for each:
 
-1. Functions and Execution Context
-✅ [ ] Plualize
-✅ [ ] Algorithm 2
-✅ [ ] Algorithm 3
-Folder: /functions-and-execution-context
-2. Callbacks & Higher-order Functions
+### 1. Functions and Execution Context
+✅ [x] addTwo
+✅ [x] addS
+✅ [x] sayHello
+✅ [x] wereAwesome
+✅ [x] lastLetter
+✅ [x] invokingFunctions
+📂 **Folder:** `/functions-and-execution-context`
+### 2. Callbacks & Higher-order Functions
+✅ [x] Pluralize
+✅ [x] Map
+✅ [x] forEach
+📂 **Folder:** `/callbacks-and-higher-order-function`
+### 3. Closure, Scope & Execution Context
 ✅ [ ] Algorithm 1
 ✅ [ ] Algorithm 2
 ✅ [ ] Algorithm 3
-Folder: /callbacks-and-higher-order-functions
-3. Closure, Scope & Execution Context
+📂 **Folder:** `/closure-scope-and-execution-context`
+### 4. Recursion
 ✅ [ ] Algorithm 1
 ✅ [ ] Algorithm 2
 ✅ [ ] Algorithm 3
-Folder: /closure-scope-and-execution-context
-4. Recursion
+📂 **Folder:** `/recursion`
+### 5. Object Oriented Programming
 ✅ [ ] Algorithm 1
 ✅ [ ] Algorithm 2
 ✅ [ ] Algorithm 3
-Folder: /recursion
-5. Object Oriented Programming
+📂 **Folder:** `/object-oriented-programming`
+### 6. Asynchronous JavaScript
 ✅ [ ] Algorithm 1
 ✅ [ ] Algorithm 2
 ✅ [ ] Algorithm 3
-Folder: /object-oriented-programming
-6. Asynchronous JavaScript
-✅ [ ] Algorithm 1
-✅ [ ] Algorithm 2
-✅ [ ] Algorithm 3
-Folder: /asynchronous-javascript
+📂 **Folder:** `/asynchronous-javascript`
 File Structure
 The repository is organized as follows:
 
@@ -66,11 +70,11 @@ Copy code
 │   ├── algorithm2.js
 │   ├── ...
 └── README.md
-How to Run the Algorithms
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/your-username/codesmith-csx-algorithms.git
+## How to Run the Algorithms
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/gingraham/codesmith-csx-algorithms.git
 Navigate to the concept folder:
 bash
 Copy code
@@ -79,9 +83,13 @@ Run the file using Node.js:
 bash
 Copy code
 node algorithm1.js
-Goals
+
+### Goals
 Develop a strong understanding of JavaScript concepts.
 Solve algorithms daily and commit progress to GitHub.
 Strengthen problem-solving skills in preparation for technical interviews.
-Progress Updates
-I will update this README as I complete more algorithms. Stay tuned for my progress!
+
+### How to Use This
+- Replace placeholders like `Algorithm 1` with the actual algorithm names.
+- Check the boxes as you complete algorithms by changing `[ ]` to `[x]`.
+- Regularly update this README file to track your progress and show off your hard work!
