@@ -14,11 +14,22 @@ Below are the key concepts I'm focusing on, along with the progress tracking for
 ✅ [x] lastLetter
 ✅ [x] invokingFunctions
 ✅ [x] Loop-SummingTwoArrays
+✅ [x] controlFlow-ifStatementsAndMulitpleConditions
+✅ [x] gradeCalculator
+✅ [x] LoopsAndControlFlow
+✅ [x] Loops-MultipleConditions
+✅ [x] disemvowel
+✅ [x] arrayBuilder
 📂 **Folder:** `/functions-and-execution-context`
 ### 2. Callbacks & Higher-order Functions
 ✅ [x] Pluralize
 ✅ [x] Map
 ✅ [x] forEach
+✅ [x] Reduce
+✅ [x] Union
+✅ [x] objOfMatches
+✅ [x] arrToObj
+✅ [x] joinAndMap
 📂 **Folder:** `/callbacks-and-higher-order-function`
 ### 3. Closure, Scope & Execution Context
 ✅ [ ] Algorithm 1
