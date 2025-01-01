@@ -30,16 +30,30 @@ Below are the key concepts I'm focusing on, along with the progress tracking for
 ✅ [x] objOfMatches
 ✅ [x] arrToObj
 ✅ [x] joinAndMap
+✅ [x] Intersection
+✅ [x] goodKeys
+✅ [x] countBy
+✅ [x] prioritize
+✅ [x] multiMap
+✅ [x] majority
+✅ [x] eitherFilter
 📂 **Folder:** `/callbacks-and-higher-order-function`
 ### 3. Closure, Scope & Execution Context
-✅ [ ] Algorithm 1
-✅ [ ] Algorithm 2
-✅ [ ] Algorithm 3
+✅ [x] addByX
+✅ [x] after
+✅ [x] createFunction
+✅ [x] createFunctionWithInput
+✅ [x] delay
+✅ [x] once
+✅ [x] cycleIterator
+✅ [x] saveOutput 
 📂 **Folder:** `/closure-scope-and-execution-context`
 ### 4. Recursion
-✅ [ ] Algorithm 1
-✅ [ ] Algorithm 2
-✅ [ ] Algorithm 3
+✅ [x] factorial
+✅ [x] flow
+✅ [x] getLength
+✅ [x] pow
+✅ [x] repeater
 📂 **Folder:** `/recursion`
 ### 5. Object Oriented Programming
 ✅ [ ] Algorithm 1
