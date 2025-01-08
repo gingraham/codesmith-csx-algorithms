@@ -56,9 +56,14 @@ Below are the key concepts I'm focusing on, along with the progress tracking for
 ✅ [x] repeater
 📂 **Folder:** `/recursion`
 ### 5. Object Oriented Programming
-✅ [ ] Algorithm 1
-✅ [ ] Algorithm 2
-✅ [ ] Algorithm 3
+✅ [x] ChainStore
+✅ [x] DeveloperClass
+✅ [x] DogConstructor
+✅ [x] introduce
+✅ [x] inventory
+✅ [x] PersonClass
+✅ [x] PersonConstructor
+✅ [x] PersonFromConstructor
 📂 **Folder:** `/object-oriented-programming`
 ### 6. Asynchronous JavaScript
 ✅ [ ] Algorithm 1
